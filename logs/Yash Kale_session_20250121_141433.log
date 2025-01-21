@@ -1,0 +1,7 @@
+2025-01-21 14:14:33,550 - INFO - Logger initialized for user session.
+2025-01-21 14:14:43,183 - INFO - Email validation success: yash67@gmail.com
+2025-01-21 14:14:50,941 - INFO - Address validation success: lane 4 Pune
+2025-01-21 14:14:55,037 - ERROR - Mobile number validation failed: 89648
+2025-01-21 14:14:57,584 - INFO - Electricity bill validation success: 789
+2025-01-21 14:14:59,756 - INFO - Area validation success: 645.0 sq mt
+2025-01-21 14:14:59,756 - INFO - Session for user 'Yash Kale' ended.

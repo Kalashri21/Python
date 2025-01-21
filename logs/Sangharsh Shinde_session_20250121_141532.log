@@ -1,0 +1,7 @@
+2025-01-21 14:15:32,467 - INFO - Logger initialized for user session.
+2025-01-21 14:15:42,603 - ERROR - Email validation failed: sangharsh34@gmail
+2025-01-21 14:15:47,155 - INFO - Address validation success: Pune
+2025-01-21 14:15:50,884 - ERROR - Mobile number validation failed: 768453688
+2025-01-21 14:15:54,269 - INFO - Electricity bill validation success: 789
+2025-01-21 14:15:56,051 - INFO - Area validation success: 98.0 sq mt
+2025-01-21 14:15:56,051 - INFO - Session for user 'Sangharsh Shinde' ended.
